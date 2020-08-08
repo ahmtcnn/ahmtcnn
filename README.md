@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Ahmet Can KARAAĞAÇLI
+Ahmet Can KARAAĞAÇLI  
 Computer Engineer
 
-Python
-cyber
-network
-linux
-django
-vue
+- Python
+- cyber
+- network
+- linux
+- django
+- vue
 
 
 

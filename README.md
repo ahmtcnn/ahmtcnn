@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Ahmet Can KARAAĞAÇLI
+Computer Engineer
+
+Python
+cyber
+network
+linux
+django
+vue
+
+
+
 <!--
 **ahmtcnn/ahmtcnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

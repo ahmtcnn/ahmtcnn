@@ -3,12 +3,12 @@
 Ahmet Can KARAAĞAÇLI  
 Computer Engineer
 
-- Python
-- cyber
-- network
-- linux
-- django
-- vue
+- Offensive Security
+- Application Security
+- Penetration Testing
+- Threat Modelling
+- Network Security
+- Red Teaming
 
 
 
